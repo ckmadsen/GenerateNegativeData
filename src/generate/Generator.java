@@ -88,5 +88,4 @@ public class Generator {
 			data.add(dataLine);
 		}
 	}
-
 }
